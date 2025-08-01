@@ -9,7 +9,7 @@ Built using Microsoft Excel, this interactive dashboard helps HR teams derive in
 
 ---
 
-
+<img width="1325" height="480" alt="Image" src="https://github.com/user-attachments/assets/f01ed87c-ad98-40d5-9ff2-57812b275575" />
 
 ---
 
@@ -26,3 +26,21 @@ Built using Microsoft Excel, this interactive dashboard helps HR teams derive in
 
 ---
 
+🛠️ Tools Used
+📘 Microsoft Excel
+
+📈 Pivot Charts & Tables
+
+🎚️ Slicers
+
+💡 Conditional Formatting
+
+🖌️ Custom Gradient Background
+
+---
+
+### **✍️ Developed By**
+
+
+  Vishal Pate
+📧 vprakashpate@gmail.com
